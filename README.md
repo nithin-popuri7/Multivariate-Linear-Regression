@@ -42,7 +42,7 @@ print('Predicted co2 for the corresponding weight and volume',predictedCO2)
 ```
 
 ## Output:
-[githublogo](cars.c.png)
+[githublogo](car..png)
 
 
 ## Result
