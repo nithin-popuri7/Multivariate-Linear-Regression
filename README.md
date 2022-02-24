@@ -25,8 +25,8 @@ Display the predicted value.
 
 ## Program:
 ```
-#Developed by :- 
-#Register number:- 212221240024
+#Developed by :- Popuri.Siva Naga Nithin
+#Register number:- 212221240037
 import pandas as pd
 from sklearn import linear_model
 
